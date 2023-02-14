@@ -1,0 +1,13 @@
+Os números são símbolos usados para representar quantidades e medidas. Eles fazem parte do sistema numérico e permitem que
+realizemos cálculos matemáticos e estatísticos, além de serem utilizados em diversos contextos da vida cotidiana, como 
+no comércio, na ciência, na tecnologia, entre outros.
+
+Os números são divididos em diferentes tipos, como os números naturais (1, 2, 3...), inteiros (..., -2, -1, 0, 1, 2...), 
+racionais (que podem ser expressos como frações), irracionais (como pi e a raiz quadrada de 2) e os números complexos
+(que possuem uma parte real e uma parte imaginária).
+
+A origem dos números remonta há milhares de anos, com a necessidade de contar objetos e animais para a sobrevivência 
+humana. Ao longo do tempo, diferentes sistemas numéricos foram criados em diferentes culturas, como o sistema decimal 
+utilizado hoje em dia, que surgiu na Índia há mais de 2 mil anos.
+
+Fonte: Wikipédia. "Número". Disponível em: https://pt.wikipedia.org/wiki/Número. Acesso em 14 fev. 2023.
